@@ -1,0 +1,7 @@
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\bin\Debug\Funziona cubica.exe.config
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\bin\Debug\Funziona cubica.exe
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\bin\Debug\Funziona cubica.pdb
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\obj\Debug\Funziona cubica.csprojResolveAssemblyReference.cache
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\obj\Debug\Funziona cubica.csproj.CoreCompileInputs.cache
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\obj\Debug\Funziona cubica.exe
+C:\Users\Michele\source\repos\Funziona cubica\Funziona cubica\obj\Debug\Funziona cubica.pdb
