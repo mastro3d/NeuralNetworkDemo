@@ -4,3 +4,4 @@ C:\Users\Michele\Source\Repos\NewRepo\NewRepo\bin\Debug\NewRepo.pdb
 C:\Users\Michele\Source\Repos\NewRepo\NewRepo\obj\Debug\NewRepo.csproj.CoreCompileInputs.cache
 C:\Users\Michele\Source\Repos\NewRepo\NewRepo\obj\Debug\NewRepo.exe
 C:\Users\Michele\Source\Repos\NewRepo\NewRepo\obj\Debug\NewRepo.pdb
+C:\Users\Michele\Source\Repos\NewRepo\NewRepo\obj\Debug\NewRepo.csprojResolveAssemblyReference.cache
